@@ -8,5 +8,5 @@ In this component data are transfered between !View & !Controller that is busine
 # !VIEW
 In this component is where the user interacts with the dropdown menu,textbox where users can edit in their information e.t.c
 
-# CONTROLLERS
+# !CONTROLLERS
 In this commponent is where it acts as a interface between the !Model and !View that will process all the business logic and incoming request. For example the customer controller controls the interaction taken place in the customer view and it will update the data sent back to the customer model. 
